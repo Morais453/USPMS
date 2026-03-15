@@ -1,4 +1,4 @@
-# USPMS
+# University Sports Performance Management System
 O University Sports Performance Management System surgiu inicialmente como uma proposta de trabalho para a disciplina de Banco de Dados, com o objetivo de aplicar na prática os conceitos de modelagem de dados, normalização e manipulação de informações em bancos relacionais.
 
 O projeto consiste em um sistema voltado para a gestão de performance esportiva universitária, permitindo o armazenamento, organização e análise de dados relacionados ao desempenho técnico, físico e estatístico de atletas vinculados a equipes acadêmicas.
@@ -10,3 +10,10 @@ Inicialmente, o projeto foi desenvolvido com foco na modelagem conceitual e lóg
 Atualmente, o projeto está sendo evoluído como parte do portfólio de desenvolvimento, com a intenção de expandir sua implementação para uma aplicação completa, incluindo uma API backend para gerenciamento das informações esportivas, além de possíveis recursos futuros como autenticação de usuários, geração de relatórios analíticos e dashboards de desempenho.
 
 O sistema tem como finalidade demonstrar, de forma aplicada, o uso de modelagem de dados, organização de informações esportivas e desenvolvimento de soluções voltadas à análise de desempenho em ambientes universitários. 
+
+## Tecnologias Utilizadas
+
+- SQL
+- Modelagem de Banco de Dados
+- UML
+- Normalização (até 3FN)
